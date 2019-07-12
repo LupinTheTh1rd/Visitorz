@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorHint">@android:color/white</item>
+    </style>
+
+    <style name="HintText" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorEditTextHint</item>
+        <item name="android:fontFamily">@font/marcellus</item>
+        <item name="android:color">@android:color/black</item>
+    </style>
+
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--<item name="android:windowDisablePreview">true</item>-->
+        <item name="windowActionBar">false</item>
+        <!--<item name="actionMenuTextColor">@android:color/black</item>-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="EditHintText" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/marcellus</item>
+        <item name="android:color">@android:color/black</item>
+    </style>
+
+    <style name="InvisibileHint" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/marcellus</item>
+        <item name="android:color">@android:color/black</item>
+    </style>
+
+</resources>

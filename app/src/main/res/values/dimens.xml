@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="details_top_margin">48dp</dimen>
+    <dimen name="details_side_margin">28dp</dimen>
+    <dimen name="welcome_layout_side_margin">56dp</dimen>
+    <dimen name="welcome_layout_vertical_margin">48dp</dimen>
+    <dimen name="editTextSpacing">32dp</dimen>
+    <dimen name="login_button_round">30dp</dimen>
+
+</resources>

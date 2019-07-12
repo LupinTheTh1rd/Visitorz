@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Visitorz</string>
+    <string name="splash_header">Visitorz</string>
+    <string name="enter_details">Please enter your details</string>
+    <string name="first_name">First Name*</string>
+    <string name="last_name">Last Name*</string>
+    <string name="email">Email ID (optional)</string>
+    <string name="mobile_number">Mobile Number*</string>
+    <string name="next_btn">NEXT</string>
+    <string name="welcom_header">Upload Images</string>
+    <string name="welcome_header_text">WELCOME TO PDS!</string>
+    <string name="welcome_main">Allow us to remember you for next time..</string>
+    <string name="welcome_button_self">Take a pic of yourself</string>
+    <string name="welcome_button_id">Upload an ID</string>
+    <string name="olduser_welcome">Welcome Back</string>
+    <string name="oldUser_back">Welcome Back,</string>
+    <string name="oldUser_welcome_while">It\'s been a while..</string>
+    <string name="launcher_submit_btn"><b>Submit</b></string>
+    <string name="headerWhoMeet">| Please enter the mobile number of the person you wish to meet |</string>
+</resources>

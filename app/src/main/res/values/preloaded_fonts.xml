@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/droid_sans_mono</item>
+        <item>@font/jacques_francois</item>
+        <item>@font/macondo</item>
+        <item>@font/marcellus</item>
+        <item>@font/rhodium_libre</item>
+    </array>
+</resources>
